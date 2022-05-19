@@ -10,8 +10,6 @@
 # Langkah - Langkah Praktikum
 ## Persiapan
 - Untuk memulai membuat aplikasi CRUD sederhana, yang perlu disiapkan adallah database server menggunakan MySQL. Pastikan MySQL Server sudah dapat dijalankan melalui XAMPP.
-- Persiapkan text editor misalnya **VSCode**
-- Buat folder baru dengan nama **lab8_php_database** pada docroot webserver **(htdocs)**
 
 ## Menjalankan MySQL Server
 Untuk menjalankan MySQL Server dari menu XAMPP Control.
@@ -28,3 +26,10 @@ Pastikan webserver Apache & MySQL server sudah dijalankan. Kemudian buka melalui
 
 ## Membuat Tabel
 ![img](img/creattable.png)
+
+## Menambahkan Data
+![img](img/inserttable.png)
+
+## Membuat Program CRUD
+Buat folder `lab8_php_database` pada root directory web server (c:\xampp\htdocs)
+![img](img/lab8database.png)
