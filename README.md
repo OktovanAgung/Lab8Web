@@ -33,3 +33,6 @@ Pastikan webserver Apache & MySQL server sudah dijalankan. Kemudian buka melalui
 ## Membuat Program CRUD
 Buat folder `lab8_php_database` pada root directory web server (c:\xampp\htdocs)
 ![img](img/lab8database.png)
+Kemudian untuk mengakses directory tersebut pada web server dengan mengakses URL : `http://localhost/lab8_php_database/`
+![img](img/webserverlab8.png)
+
