@@ -40,3 +40,10 @@ Kemudian untuk mengakses directory tersebut pada web server dengan mengakses URL
 Buat file baru dengan nama **Koneksi.php**. Lalu buka melalui browser untukmenguji database, untuk menyampaikan pesan koneksi berhasil,  *uncomment* pada perintah `echo "koneksi berhasil";
 ![img](img/filekoneksiphp.png)
 
+## Membuat File Index Untuk Menampilkan Data(*Read*)
+Buat file baru dengan nama **index.php**
+![img](img/coderead.png)
+![img](img/tampilanread.png)
+
+## Menambahkan Data (*Create*)
+Buat file baru dengan nama **tambah.php**
