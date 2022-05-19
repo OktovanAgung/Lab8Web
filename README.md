@@ -13,3 +13,7 @@
 - Persiapkan text editor misalnya **VSCode**
 - Buat folder baru dengan nama **lab8_php_database** pada docroot webserver **(htdocs)**
 
+## Menjalankan MySQL Server
+Untuk menjalankan MySQL Server dari menu XAMPP Control.
+![img](img/startxampp.png)
+
