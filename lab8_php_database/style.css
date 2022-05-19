@@ -1,0 +1,32 @@
+table{
+    border-collapse:collapse;
+    font:normal normal 12px Verdana,Arial,Sans-Serif;
+    color :black;
+}
+
+table th,
+table td {
+    vertical-ali
+    gn:top;
+    padding:5px 10px;
+    border:1px solid black;
+}
+
+form input[type="text"],
+form select, 
+form textarea {
+    display: grid;
+  	padding: 1px 10px;
+  	margin: 3px 0;
+  	box-sizing: border-box;
+  	font-size: 15px;
+}
+form input[type="submit"] {
+    border: 5px solid #1b1feb;
+	background-color: #1b1feb; 
+	color: #ffffff;
+	font-weight: bold; 
+	padding: 5px 15px;
+	border-radius: 10px;
+	font-size: 15px;
+}   
