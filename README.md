@@ -47,3 +47,14 @@ Buat file baru dengan nama **index.php**
 
 ## Menambahkan Data (*Create*)
 Buat file baru dengan nama **tambah.php**
+![img](img/codecreate.png)
+![img](img/tampilancreate.png)
+
+## Mengubah Data (*Update*)
+Buat file baru dengan nama **ubah.php**
+![img](img/codeupdate.png)
+![img](img/tampilanupdate.png)
+
+## Menghapus Data (*Delete*)
+Buat file baru dengan nama **hapus.php**
+![img](img/codedelete.png)
